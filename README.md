@@ -1,4 +1,5 @@
 # Discord Spoiler Tag CSS
+##Warning: only people with this plugin wont see the spoiler, people without it will see normal text!
 #Usage: 
 ```
 ****Spoiler****
