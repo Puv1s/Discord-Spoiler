@@ -2,7 +2,7 @@
 ##Warning: only people with this plugin wont see the spoiler, people without it will see normal text!
 #Usage: 
 ```
-****Spoiler****
+***Spoiler***
 ```
 ![](http://i.imgur.com/5tIZw4L.gif)
 ###Installation: Download the raw .css file and add it to your Theme folder in:
