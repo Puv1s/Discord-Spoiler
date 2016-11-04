@@ -1,0 +1,20 @@
+//META{"name":"Spoiler_Tag","description":"Spoiler tag for discord. Usage: ****Spoiler****","author":"Pu","version":"1.0"}*//{}
+
+.message-group .comment .markup em strong {
+    background-color: black;
+    border-radius: 5px !important;
+    cursor: default;
+    color: transparent;
+}
+
+.message-group .comment .markup em strong:hover {
+    color: rgba(255,255,255,.7);
+    background-color: transparent;
+    border-radius: 0px;
+    cursor: default;
+    transition: .3s;
+    font-weight: normal;
+    font-style: normal;
+    transition-delay: 0.5s;
+    margin: 0px;
+}
