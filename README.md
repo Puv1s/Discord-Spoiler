@@ -4,7 +4,7 @@
 ```
 ***Spoiler***
 ```
-![](http://i.imgur.com/5tIZw4L.gif)
+![](http://i.imgur.com/bhroUZa.gif)
 ###Installation: Download the raw .css file and add it to your Theme folder in:
 ```
 %appdata%/Betterdiscord/Themes.
